@@ -1,0 +1,295 @@
+{
+    "account_number": "D-99225830",
+    "bill_to": {
+        "address": "228 East 45th Street\nNew York, NY 10017",
+        "name": "Nu Life Health",
+        "parsed_address": null,
+        "vat_number": null
+    },
+    "cashback": null,
+    "category": "Utilities",
+    "country_code": "US",
+    "created_date": "2025-02-11 20:39:44",
+    "currency_code": "USD",
+    "date": "2023-09-11 00:00:00",
+    "delivery_date": null,
+    "discount": null,
+    "document_reference_number": null,
+    "document_title": "Invoice",
+    "document_type": "invoice",
+    "due_date": "2023-12-27",
+    "duplicate_of": null,
+    "external_id": null,
+    "id": 283603269,
+    "img_file_name": "283603269.pdf",
+    "img_thumbnail_url": "https://scdn.veryfi.com/receipts/758dd0672908ed30/90c1abea-65be-4bde-abb2-43bcb9b570fc/thumbnail.jpg?Expires=1739307287&Signature=VJXOEbDCtPkNn45pPZbBB22oxl7Ap2VWOdmoeSYeYgiZAKx06nV90P0Nj4vDaNFPS7iOQABWzGWpSi9f-FercuzpDsavjCYoMBQOeY9zZpOZcNagyK~bbatNlYWBCMpzzZEoHZDShhNnW-zQlrsYFzV0Et1aEwTiCwFeJ~63XJxjs~a4axQdxIQdLpWT6rM4LC~kCPEMp9XHNvV8N5XY9dPMNai2kuUXzKLZhHK9~nTAu2veZnpINrEFO5x4B1VMLcOatARvf0bL6eKZMDB8mNHhgZN04WI~y3YWh~W2LWAMFs1z523WVRrUL~kGh6Xk6qUS4j0SIHQRp1vPJu618Q__&Key-Pair-Id=APKAJCILBXEJFZF4DCHQ",
+    "img_url": "https://scdn.veryfi.com/receipts/758dd0672908ed30/90c1abea-65be-4bde-abb2-43bcb9b570fc/13ed9bef-19ac-42e5-8675-6913482157ad.pdf?Expires=1739307287&Signature=SBXK~D7ZpoUnaN0cQRQXfnYvIE91kMGy0HdbCcwh~ZfrFn1fFU88VMCNEppvgayyg-BHHVfWhXywUu21EwWoCb1cywHYpP2xS360cM3-Bz6n8LktraJ-M7SIeoPn6yOaHwZJsA-10TK~n8HtdQ1nYtx2U-qwQe97mKa9euxPW6Sfml6UOpdhVY4V~JPYb5VWFlxFI9cRUE0T51bnFEaMks-v8H66fBSmdKwJ4a3IGfZUpz1KDcTISEfNKg3V5EJAEY9KF1fAt7VTj-~q8lq7MxxyRaXmb6Bpjb~~MAK1~KUdE10Leo31OS7A904Yammy1JClSFtprMHPD298R2cHXQ__&Key-Pair-Id=APKAJCILBXEJFZF4DCHQ",
+    "insurance": null,
+    "invoice_number": "16005913",
+    "is_duplicate": false,
+    "is_money_in": false,
+    "line_items": [
+        {
+            "date": null,
+            "description": "Carrier Taxes for Transport | 58 Gbps Wavelength Diverse between Sparks, OR 98765 and\nLasVegas, OR 56789 (ymEw7J) (U4M7QOSJ) (10/2023 Taxes) (10/2023)",
+            "discount": null,
+            "discount_rate": null,
+            "end_date": null,
+            "full_description": "Carrier Taxes for Transport | 58 Gbps Wavelength Diverse between Sparks, OR 98765 and\nLasVegas, OR 56789 (ymEw7J) (U4M7QOSJ) (10/2023 Taxes) (10/2023)",
+            "hsn": null,
+            "id": 1285936944,
+            "lot": null,
+            "normalized_description": null,
+            "order": 0,
+            "price": -1781.87,
+            "quantity": 6016.09,
+            "reference": null,
+            "section": null,
+            "sku": null,
+            "start_date": null,
+            "tags": [],
+            "tax": null,
+            "tax_rate": null,
+            "text": "Carrier Taxes for Transport | 58 Gbps Wavelength Diverse between Sparks, OR 98765 and\t6,016.09\t-1,781.87\t-10,719,890.29\nLasVegas, OR 56789 (ymEw7J) (U4M7QOSJ) (10/2023 Taxes) (10/2023)",
+            "total": -10719890.29,
+            "type": "transportation",
+            "unit_of_measure": null,
+            "upc": null,
+            "weight": null
+        },
+        {
+            "date": null,
+            "description": "Transport | 971 Gbps Fiber to wXv21fam (X6HCHK1C) (10/2023)",
+            "discount": null,
+            "discount_rate": null,
+            "end_date": null,
+            "full_description": "Transport | 971 Gbps Fiber to wXv21fam (X6HCHK1C) (10/2023)",
+            "hsn": null,
+            "id": 1285936945,
+            "lot": null,
+            "normalized_description": null,
+            "order": 1,
+            "price": 3868.31,
+            "quantity": 3372.59,
+            "reference": null,
+            "section": null,
+            "sku": null,
+            "start_date": null,
+            "tags": [],
+            "tax": null,
+            "tax_rate": null,
+            "text": "Transport | 971 Gbps Fiber to wXv21fam (X6HCHK1C) (10/2023)\t\t\t3,372.59\t3,868.31\t13,046,223.62",
+            "total": 13046223.62,
+            "type": "transportation",
+            "unit_of_measure": null,
+            "upc": null,
+            "weight": null
+        },
+        {
+            "date": null,
+            "description": "Carrier Taxes for Transport | 486 Gbps Wavelength Diverse between Hillsboro, NV 56789\nand Portland, NV 56789 (5FrLsxw) (JTUKEGVE) (05/2023 Taxes) (05/2023)",
+            "discount": null,
+            "discount_rate": null,
+            "end_date": null,
+            "full_description": "Carrier Taxes for Transport | 486 Gbps Wavelength Diverse between Hillsboro, NV 56789\nand Portland, NV 56789 (5FrLsxw) (JTUKEGVE) (05/2023 Taxes) (05/2023)",
+            "hsn": null,
+            "id": 1285936946,
+            "lot": null,
+            "normalized_description": null,
+            "order": 2,
+            "price": 4915.32,
+            "quantity": 3593.22,
+            "reference": null,
+            "section": null,
+            "sku": null,
+            "start_date": null,
+            "tags": [],
+            "tax": null,
+            "tax_rate": null,
+            "text": "Carrier Taxes for Transport | 486 Gbps Wavelength Diverse between Hillsboro, NV 56789\t3,593.22\t4,915.32\t17,661,826.13\nand Portland, NV 56789 (5FrLsxw) (JTUKEGVE) (05/2023 Taxes) (05/2023)",
+            "total": 17661826.13,
+            "type": "transportation",
+            "unit_of_measure": null,
+            "upc": null,
+            "weight": null
+        },
+        {
+            "date": null,
+            "description": "Transport | Switch Fiber Pair (Intra-campus) | Pairs (8963157731) (01/2024|10 Gbps Fiber\nto dHrINDY (1OVAXL6A) (01/2024)",
+            "discount": null,
+            "discount_rate": null,
+            "end_date": null,
+            "full_description": "Transport | Switch Fiber Pair (Intra-campus) | Pairs (8963157731) (01/2024|10 Gbps Fiber\nto dHrINDY (1OVAXL6A) (01/2024)",
+            "hsn": null,
+            "id": 1285936947,
+            "lot": null,
+            "normalized_description": null,
+            "order": 3,
+            "price": 1186.61,
+            "quantity": 1714.46,
+            "reference": null,
+            "section": null,
+            "sku": null,
+            "start_date": null,
+            "tags": [],
+            "tax": null,
+            "tax_rate": null,
+            "text": "Transport | Switch Fiber Pair (Intra-campus) | Pairs (8963157731) (01/2024|10 Gbps Fiber\t1,714.46\t1,186.61\t2,034,395.38\nto dHrINDY (1OVAXL6A) (01/2024)",
+            "total": 2034395.38,
+            "type": "transportation",
+            "unit_of_measure": null,
+            "upc": null,
+            "weight": null
+        },
+        {
+            "date": null,
+            "description": "Transport | Switch Fiber Pair (Intra-campus) | Pairs (6450580404) (01/2024 | 10 Gbps Fiber\nto 14AIFIIqmG (5HI7G80Q) (01/2024)",
+            "discount": null,
+            "discount_rate": null,
+            "end_date": null,
+            "full_description": "Transport | Switch Fiber Pair (Intra-campus) | Pairs (6450580404) (01/2024 | 10 Gbps Fiber\nto 14AIFIIqmG (5HI7G80Q) (01/2024)",
+            "hsn": null,
+            "id": 1285936948,
+            "lot": null,
+            "normalized_description": null,
+            "order": 4,
+            "price": 5076.42,
+            "quantity": 3078.56,
+            "reference": null,
+            "section": null,
+            "sku": null,
+            "start_date": null,
+            "tags": [],
+            "tax": null,
+            "tax_rate": null,
+            "text": "Transport | Switch Fiber Pair (Intra-campus) | Pairs (6450580404) (01/2024 | 10 Gbps Fiber\t3,078.56\t5,076.42\t15,628,063.56\nto 14AIFIIqmG (5HI7G80Q) (01/2024)",
+            "total": 15628063.56,
+            "type": "transportation",
+            "unit_of_measure": null,
+            "upc": null,
+            "weight": null
+        },
+        {
+            "date": null,
+            "description": "Transport | Switch Fiber Pair (Intra-campus) | Pairs (9818139719) (04/2023|10 Gbps Fiber\nto gGPS1 Ef6 (C2NXECIF) (04/2023)",
+            "discount": null,
+            "discount_rate": null,
+            "end_date": null,
+            "full_description": "Transport | Switch Fiber Pair (Intra-campus) | Pairs (9818139719) (04/2023|10 Gbps Fiber\nto gGPS1 Ef6 (C2NXECIF) (04/2023)",
+            "hsn": null,
+            "id": 1285936949,
+            "lot": null,
+            "normalized_description": null,
+            "order": 5,
+            "price": 1340.91,
+            "quantity": 6480.38,
+            "reference": null,
+            "section": null,
+            "sku": null,
+            "start_date": null,
+            "tags": [],
+            "tax": null,
+            "tax_rate": null,
+            "text": "Transport | Switch Fiber Pair (Intra-campus) | Pairs (9818139719) (04/2023|10 Gbps Fiber\t6,480.38\t1,340.91\t8,689,606.35\nto gGPS1 Ef6 (C2NXECIF) (04/2023)",
+            "total": 8689606.35,
+            "type": "transportation",
+            "unit_of_measure": null,
+            "upc": null,
+            "weight": null
+        }
+    ],
+    "meta": {
+        "language": [
+            "en"
+        ],
+        "ocr_score": 0.975,
+        "owner": "michell.castrillon15",
+        "pages": [
+            {
+                "height": 792,
+                "language": [
+                    "en"
+                ],
+                "width": 612
+            }
+        ],
+        "processed_pages": 1,
+        "source": "api",
+        "source_documents": [
+            {
+                "height": 792,
+                "size_kb": 264,
+                "width": 612
+            }
+        ],
+        "total_pages": 1
+    },
+    "notes": null,
+    "ocr_text": "Invoice\nswitch\tDallas, TX 75267-4592\nPO Box 674592\t\t\t\t\t\t\t\tPage 1 of 1\n\n\tInvoice Date Due Date\tInvoice No.\n\t09/11/23\t12/27/23\t16005913\n\nNu Life Health\n228 East 45th Street\nNew York, NY 10017\n\nAccount No.\t\t\tP.O. Number\n\tServices for month of August\nD-99225830\t\t\t\tPO-968G-0297\nDescription\t\t\t\tQuantity\tRate\tAmount\nCarrier Taxes for Transport | 58 Gbps Wavelength Diverse between Sparks, OR 98765 and\t6,016.09\t-1,781.87\t-10,719,890.29\nLasVegas, OR 56789 (ymEw7J) (U4M7QOSJ) (10/2023 Taxes) (10/2023)\nTransport | 971 Gbps Fiber to wXv21fam (X6HCHK1C) (10/2023)\t\t\t3,372.59\t3,868.31\t13,046,223.62\nCarrier Taxes for Transport | 486 Gbps Wavelength Diverse between Hillsboro, NV 56789\t3,593.22\t4,915.32\t17,661,826.13\nand Portland, NV 56789 (5FrLsxw) (JTUKEGVE) (05/2023 Taxes) (05/2023)\nTransport | Switch Fiber Pair (Intra-campus) | Pairs (8963157731) (01/2024|10 Gbps Fiber\t1,714.46\t1,186.61\t2,034,395.38\nto dHrINDY (1OVAXL6A) (01/2024)\nTransport | Switch Fiber Pair (Intra-campus) | Pairs (6450580404) (01/2024 | 10 Gbps Fiber\t3,078.56\t5,076.42\t15,628,063.56\nto 14AIFIIqmG (5HI7G80Q) (01/2024)\nTransport | Switch Fiber Pair (Intra-campus) | Pairs (9818139719) (04/2023|10 Gbps Fiber\t6,480.38\t1,340.91\t8,689,606.35\nto gGPS1 Ef6 (C2NXECIF) (04/2023)\n\n\tTotal USD\t$46,340,224.75\n\nPlease update your system with our new remittance instruction located on this invoice. Please contact accounts receivable@switch.com with any\nquestions.\n\nPlease make payments to: Switch, Ltd.\nWire/ACH Payment: PNC Bank, N.A.\tAccount No.:3802512896\tACH Routing:083009060\tWire Routing: 043000096 SWIFT:PNCCUS33\nFor questions, please call or email Accounts Receivable Department.\nPhone No.\tFax No.\t\t\tE-Mail\t\t\t\t\tWeb Site\n702.522.2940\t702.444.9546\taccountsreceivable@switch.com\t\t\twww.switch.com\nPlease remit payment for amount due. If payment submitted is different from amount due, a detailed statement of where to apply the funds must be included\nwith payment.",
+    "annotations": {
+        "vendor_data": {
+            "vendor_name": [
+                "Switch, Ltd."
+            ],
+            "vendor_address": [
+                "PO Box 674592\\nDallas, TX 75267-4592"
+            ],
+            "bill_to_name": [
+                "Nu Life Health"
+            ],
+            "invoice_number": [
+                "16005913"
+            ]
+        },
+        "products_description": {
+            "item1": {
+                "sku": "None",
+                "description": "Carrier Taxes for Transport | 58 Gbps Wavelength Diverse between Sparks, OR 98765 and\\nLasVegas, OR 56789 (ymEw7J) (U4M7QOSJ) (10/2023 Taxes) (10/2023)",
+                "quzntity": "6016.09",
+                "tax_rate": "None",
+                "price": "-1781.87",
+                "total": "-10719890.29"
+            },
+            "item2": {
+                "sku": "None",
+                "description": "Transport | 971 Gbps Fiber to wXv21fam (X6HCHK1C) (10/2023)",
+                "quzntity": "3372.59",
+                "tax_rate": "None",
+                "price": "3868.31",
+                "total": "13046223.62"
+            },
+            "item3": {
+                "sku": "None",
+                "description": "Carrier Taxes for Transport | 486 Gbps Wavelength Diverse between Hillsboro, NV 56789\\nand Portland, NV 56789 (5FrLsxw) (JTUKEGVE) (05/2023 Taxes) (05/2023)",
+                "quzntity": "3593.22",
+                "tax_rate": "None",
+                "price": "4915.32",
+                "total": "17661826.13"
+            },
+            "item4": {
+                "sku": "None",
+                "description": "Transport | Switch Fiber Pair (Intra-campus) | Pairs (8963157731) (01/2024|10 Gbps Fiber\\nto dHrINDY (1OVAXL6A) (01/2024)",
+                "quzntity": "1714.46",
+                "tax_rate": "None",
+                "price": "1186.61",
+                "total": "2034395.38"
+            },
+            "item5": {
+                "sku": "None",
+                "description": "Transport | Switch Fiber Pair (Intra-campus) | Pairs (6450580404) (01/2024 | 10 Gbps Fiber\\nto 14AIFIIqmG (5HI7G80Q) (01/2024)",
+                "quzntity": "3078.56",
+                "tax_rate": "None",
+                "price": "5076.42",
+                "total": "15628063.56"
+            },
+            "item6": {
+                "sku": "None",
+                "description": "Transport | Switch Fiber Pair (Intra-campus) | Pairs (9818139719) (04/2023|10 Gbps Fiber\\nto gGPS1 Ef6 (C2NXECIF) (04/2023)",
+                "quzntity": "6480.38",
+                "tax_rate": "None",
+                "price": "1340.91",
+                "total": "8689606.35"
+            }
+        }
+    }
+}
